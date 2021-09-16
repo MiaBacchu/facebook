@@ -1,0 +1,79 @@
+body{
+    background-color: whitesmoke;
+}
+#header-container{
+    background-color: rgb(42, 42, 212);
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+#header-h1{
+    color: white;
+    display: inline;
+    font-size: 5rem;
+    margin-left: 3rem;
+}
+#header-button{
+    background-color: rgb(26, 221, 52);
+    font-size: 1.5rem;
+    border: none;
+    padding: 1rem 2rem .5rem 2rem;
+    color: white;
+    margin-left: 2rem;
+}
+#main{
+    width: 95%;
+    background-color: white;
+    margin: 0 auto;
+}
+#main-container{
+    width: 55%;
+    margin: 0 auto;
+}
+#main-h1{
+    font-size: 5rem;
+}
+.main-input{
+    color: white;
+    font-size: 2rem;
+    width: 90%;
+    height: 3.5rem;
+    margin-left: 1.5rem;
+}
+#main-button{
+    color: white;
+    font-size: 2rem;
+    width: 91.3%;
+    height: 5rem;
+    margin-left: 1.5rem;
+    background-color: rgb(42, 42, 212);
+}
+#table{
+    width: 92%;
+    margin: 2rem 1.4rem;
+}
+hr{
+    background-color: rgb(134, 132, 132);
+    height: .1rem;   
+}
+#or{
+    font-size: 2rem;
+    width: 1rem;
+    padding: 0 2rem;
+}
+#button-div{
+    width: 60%;
+    margin: 0 auto;
+}
+#create-button{
+width: 100%;
+height: 5rem;
+background-color: rgb(26, 221, 52);
+border: none;
+color: white;
+    font-size: 2rem;
+}
+p{
+    color: rgb(42, 42, 212);
+    text-align: center;
+    font-size: 2rem;
+}
